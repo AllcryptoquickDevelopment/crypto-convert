@@ -26,7 +26,7 @@
   "homepage": "https://github.com/elis-k/crypto-convert#readme",
   "dependencies": {
     "form-data": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "wrape": "^1.2.51"
   },
   "devDependencies": {
